@@ -3,7 +3,7 @@ import { Routes, Route, useLocation, useNavigate, Link } from 'react-router-dom'
 import { useState, useEffect } from "react"
 
 // Import des composants d'authentification
-import LoginForm from './components/Auth/LoginForm'
+import LoginForm from './components/auth/LoginForm'
 import RegisterForm from './components/auth/RegisterForm'
 import VerifyCode from './components/auth/VerifyCode'
 import NewPassword from './components/Auth/NewPassword'
