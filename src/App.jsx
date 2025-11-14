@@ -15,7 +15,7 @@ import AdminLoginForm from './components/admin/auth/AdminLoginForm'
 import PasswordForgetAdmin from './components/admin/auth/PasswordForgetAdmin'
 
 // Import des composants du dashboard VENDEUR
-import Sidebar from './components/Sidebar'
+import Sidebar from './components/SideBar.jsx'
 import Dashboard from "./pages/Dashboard"
 import Clients from "./pages/Clients"
 import Commandes from "./pages/Commandes"
