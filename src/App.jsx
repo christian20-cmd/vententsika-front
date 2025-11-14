@@ -6,8 +6,8 @@ import { useState, useEffect } from "react"
 import LoginForm from './components/auth/LoginForm'
 import RegisterForm from './components/auth/RegisterForm'
 import VerifyCode from './components/auth/VerifyCode'
-import NewPassword from './components/Auth/NewPassword'
-import ForgotPasswordForm from './components/Auth/ForgotPasswordForm'
+import NewPassword from './components/auth/NewPassword'
+import ForgotPasswordForm from './components/auth/ForgotPasswordForm'
 import RoleSelectionPage from './pages/RoleSelectionPage'
 
 // Import des composants ADMIN
